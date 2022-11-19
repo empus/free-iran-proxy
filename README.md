@@ -10,6 +10,8 @@ Infrastructure employs ***nginx*** websocket proxying with ***v2ray-core*** over
 
 ## Install
 
-```git clone https://github.com/empus/free-iran-proxy
+```
+git clone https://github.com/empus/free-iran-proxy
 cd free-iran-proxy
-mkdocs build```
+mkdocs build
+```
