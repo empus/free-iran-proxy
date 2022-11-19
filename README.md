@@ -6,7 +6,7 @@ Infrastructure employs ***nginx*** websocket proxying with ***v2ray-core*** over
 
 ## Requirements
 
-```pip install mkdocs mkdocs-material mkdocs-with-pdf```
+```pip install mkdocs mkdocs-material```
 
 ## Install
 

@@ -6,7 +6,7 @@ theme:
   lang: en
 plugins:
   - search
-  - with-pdf
+#  - with-pdf
 #  - enumerate-headings:
 #      strict: false
 #      toc_depth: 6
