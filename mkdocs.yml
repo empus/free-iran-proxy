@@ -4,6 +4,8 @@ use_directory_urls: false
 theme:
   name: material
   lang: en
+  features:
+    - navigation.sections
 plugins:
   - search
 #  - with-pdf
@@ -20,10 +22,13 @@ markdown_extensions:
   - attr_list
 
 nav:
-  - 1. Introduction: index.md
-  - 2. Windows: windows.md
-  - 3. Android: android.md
-  - 4. iOS: ios-nv.md
-  - 5. macOS: macos.md
-  - 6. Troubleshooting: faq.md
+  - Introduction: index.md
+  - Client Guides: guides.md
+  - Guides:
+    - Windows: windows.md
+    - Android: android.md
+    - iOS: ios-nv.md
+    - macOS: macos.md
+  - Troubleshooting:
+    - FAQ: faq.md
 
