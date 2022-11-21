@@ -4,7 +4,7 @@
 
 1. Install [NapsternetV](https://apps.apple.com/us/app/napsternetv/id1629465476) from the App Store
 
-    ![](images/ios/napsternetv-app.jpeg)
+    ![](images/ios/napsternetv-app.png){:style="height:75%;width:75%"}
 
 ## Configuration
 1. Copy the below URI to clipboard:
@@ -14,17 +14,17 @@
 4. Click ***Add Configuration***
 5. Click ***Allow*** to add the VPN configuration profile to iOS
    
-   ![](images/ios/napsternetv-vpn.jpeg){:style="height:50%;width:50%"}
+   ![](images/ios/napsternetv-vpn.png){:style="height:50%;width:50%"}
 
 6. Enter iOS passcode to confirm VPN profile install
 7. On the ***Configs*** screen, click the ***+*** icon in the top-right and select ***Import v2ray URI from clipboard***
 
     ![](images/ios/napsternetv-import.png){:style="height:50%;width:50%"}
 
-8. Click ***Allow*** to allow paste of vmess URI from Step #1
+8. Click ***Allow*** to allow paste of vmess URI from ***Step #1***
 9. Succesful configuration import should be shown:
 
-    ![](images/ios/napsternetv-imported.jpeg){:style="height:50%;width:50%"}
+    ![](images/ios/napsternetv-imported.png){:style="height:50%;width:50%"}
 
 10. Click the ***Home*** botton and select the connect icon to connect to VPN
 
@@ -36,4 +36,4 @@
 
 To disconnect from the service, open ***OneClick*** and click on the green connection button:
 
-![](images/ios/napsternetv-dc.jpeg){:style="height:50%;width:50%"}
+![](images/ios/napsternetv-dc.png){:style="height:50%;width:50%"}
