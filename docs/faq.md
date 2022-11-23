@@ -20,6 +20,15 @@ The following is a list of known alternate clients, for different operating syst
 
 | Client       | Operating System | Link               | Comments                                                  |
 |--------------|------------------|--------------------|-----------------------------------------------------------|
-| OneClick     | iOS              | [Guide](ios-oc.md) | Slow & can be unreliable.  Submitted report to developer  |
+| OneClick     | iOS              | [Setup Guide](ios-oc.md) | Slow & can be unreliable.  Submitted report to developer  |
 | Shadowrocket | iOS              | [App Store](https://apps.apple.com/us/app/shadowrocket/id932747118) | Reliable, but a paid iOS application |
 | Shadowsocks  | Android          | [Google Play](https://play.google.com/store/apps/details?id=com.github.shadowsocks) | Untested |
+
+
+## Bypass Paywalls
+
+Many popular international news websites hide premium content behind "pay walls", requiring paid subscriptions to read articles.  
+
+A free browser extension for ***Chrome, Edge, and Firefox*** can be used to automatically remove these paywall blocks.
+
+Details, including browser extension installation instructions can be viewed at the [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome) GitHub website.

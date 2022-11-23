@@ -21,12 +21,13 @@
 
     ![](images/android/v2rayng-con.png){:style="height:50%;width:50%"}
 
-7. For the first time only, appove the first use connection request
+7. For the first time only, approve the first use connection request
 
     ![](images/android/v2rayng-req.png){:style="height:50%;width:50%"}
 
 8. Enjoy the internet!
 
+    ![](images/android/v2rayng-connected.png){:style="height:50%;width:50%"}
 
 ## Disconnection
 

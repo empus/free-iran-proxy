@@ -17,7 +17,7 @@ Successful import should be confirmed as per below:
 
 ## Global System Proxy
 
-To enable the proxy system-wide, right-click on the V2rayN application in the System Tray, and select ***System Proxy*** -> *** Set System Proxy***:
+To enable the proxy system-wide, right-click on the V2rayN application in the System Tray, and select ***System Proxy*** -> ***Set System Proxy***:
 
 ![](images/windows/global-proxy.png)
 
@@ -30,12 +30,12 @@ Examples shown below use port ***10808*** for SOCKS5 and port ***10809*** for HT
 
 ![](images/windows/proxy-ports.png).
 
-e.g., To configure only the ***Firefox*** browser to send traffic via the proxy, apply the relevant settings in the browser **Settings*** -> ***Proxy Settings***:
+e.g., To configure only the ***Firefox*** browser to send traffic via the proxy, apply the relevant settings in the browser ***Settings*** -> ***Proxy Settings***:
 
 ![](images/windows/windows-firefox.png){:style="height:75%;width:75%"}
 
 ## Disconnection
 
-To disconnect from the service, select ***Clear System Proxy** from the System Tray before closing the V2RayN application. 
+To disconnect from the service, select ***Clear System Proxy*** from the System Tray before closing the V2RayN application. 
 
 Alternatively, if using per-application proxy configuration, remove the configuration from required applications (such as Firefox in the previous example).
