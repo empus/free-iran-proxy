@@ -27,7 +27,6 @@
 
 8. Enjoy the internet!
 
-    ![](images/android/v2rayng-connected.png){:style="height:50%;width:50%"}
 
 ## Disconnection
 
