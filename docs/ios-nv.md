@@ -26,11 +26,13 @@
 
     ![](images/ios/napsternetv-imported.png){:style="height:50%;width:50%"}
 
-10. Click the ***Home*** botton and select the connect icon to connect to VPN
+10. After the successful import, click on the ***Free Iran*** profile name to select the default configuration profile for connections.
+
+11. Click the ***Home*** botton and select the connect icon to connect to VPN
 
     ![](images/ios/napsternetv-con.png){:style="height:50%;width:50%"}
 
-11. Enjoy the internet!
+12. Enjoy the internet!
 
 ## Disconnection
 
