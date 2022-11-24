@@ -60,7 +60,7 @@ icon: fontawesome/brands/android
     To check if the proxy is properly configured and connected, you can test your connection below:
 
     <figure markdown>
-    [Test Connection](/check/){ .md-button target=_blank}
+    [Test Connection](../check/){ .md-button target=_blank}
     </figure>
 
 

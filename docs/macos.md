@@ -103,7 +103,7 @@ Examples shown below use port ***1081*** for SOCKS5 and port ***8001*** for HTTP
 To check if the proxy is properly configured and connected, you can test your connection below:
 
 <figure markdown>
-[Test Connection](/check/){ .md-button target=_blank}
+[Test Connection](../check/){ .md-button target=_blank}
 </figure>
 
 ## :material-lan-disconnect: Disconnection
