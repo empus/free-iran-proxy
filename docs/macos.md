@@ -91,12 +91,20 @@ Examples shown below use port ***1081*** for SOCKS5 and port ***8001*** for HTTP
 ![](images/macos/v2rayx-ports.png){:loading=lazy}
 </figure>
 
-??? Firefox Example
+??? example "Firefox Example"
     To configure only the ***Firefox*** browser to send traffic via the proxy, apply the relevant settings in the browser ***Settings*** -> ***Proxy Settings***:
 
     <figure markdown>
     ![](images/macos/macos-firefox.png){:loading=lazy style="height:75%;width:75%"}
     </figure>
+
+## :material-dns: Test Connection
+
+To check if the proxy is properly configured and connected, you can test your connection below:
+
+<figure markdown>
+[Test Connection](/check/){ .md-button target=_blank}
+</figure>
 
 ## :material-lan-disconnect: Disconnection
 

@@ -9,7 +9,7 @@ icon: fontawesome/brands/apple
 **1.** Install [NapsternetV](https://apps.apple.com/us/app/napsternetv/id1629465476) from the App Store
 
 <figure markdown>
-![](images/ios/napsternetv-app.png){:style="height:50%;width:50%;" loading=lazy}
+![](images/ios/napsternetv-app.png){:style="height:50%;width:50%" loading=lazy}
 </figure>
 
 ## :material-tools: Configuration
@@ -35,7 +35,7 @@ icon: fontawesome/brands/apple
 
 **4.** Click ***Allow*** to add the VPN configuration profile to iOS
 <figure markdown>
-![](images/ios/napsternetv-vpn.png){:style="height:40%;width:40%; loading=lazy"}
+![](images/ios/napsternetv-vpn.png){:style="height:35%;width:35%; loading=lazy"}
 </figure>
 
 
@@ -44,34 +44,42 @@ icon: fontawesome/brands/apple
 **6.** On the ***Configs*** screen, click the ***+*** icon in the top-right and select ***Import v2ray URI from clipboard***
 
 <figure markdown>
-![](images/ios/napsternetv-import.png){:style="height:40%;width:40%;" loading=lazy}
+![](images/ios/napsternetv-import.png){:style="height:35%;width:35%;" loading=lazy}
 </figure>
 
 
 **7.** Click ***Allow*** to allow paste of vmess URI from ***Step #1***
 
-!!! Success
+??? Success
 
     Successful configuration import should be shown:
 
-<figure markdown>
-![](images/ios/napsternetv-imported.png){:style="height:40%;width:40%;" loading=lazy}
-</figure>
+    <figure markdown>
+    ![](images/ios/napsternetv-imported.png){:style="height:35%;width:35%;" loading=lazy}
+    </figure>
 
 **8.**  After the successful import, click on the ***Free Iran*** profile name to select the default configuration profile for connections.
 
 **9.** Click the ***Home*** botton and select the connect icon to connect to VPN
 
 <figure markdown>
-![](images/ios/napsternetv-con.png){:style="height:40%;width:40%;" loading=lazy}
+![](images/ios/napsternetv-con.png){:style="height:35%;width:35%;" loading=lazy}
 </figure>
 
 **10.** Enjoy the internet!
+
+??? success ":material-dns: Test Connection"
+
+    To check if the proxy is properly configured and connected, you can test your connection below:
+
+    <figure markdown>
+    [Test Connection](/check/){ .md-button target=_blank}
+    </figure>
 
 ## :material-lan-disconnect: Disconnection
 
 To disconnect from the service, open ***OneClick*** and click on the green connection button:
 
 <figure markdown>
-![](images/ios/napsternetv-dc.png){:style="height:40%;width:40%;" loading=lazy}
+![](images/ios/napsternetv-dc.png){:style="height:35%;width:35%;" loading=lazy}
 </figure>

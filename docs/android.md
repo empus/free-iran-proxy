@@ -30,16 +30,16 @@ icon: fontawesome/brands/android
 **4.** Select ***Import config from clipboard***
 
 <figure markdown>
-![](images/android/v2rayng-import.png){:loading=lazy style="height:50%;width:50%"}
+![](images/android/v2rayng-import.png){:style="height:50%;width:50%" loading=lazy}
 </figure>
 
-!!! Success
+??? Success
 
     Successful import confirmation should be displayed
 
-<figure markdown>
-![](images/android/v2rayng-imported.png){:loading=lazy style="height:50%;width:50%;"}
-</figure>
+    <figure markdown>
+    ![](images/android/v2rayng-imported.png){:loading=lazy style="height:50%;width:50%;"}
+    </figure>
 
 **5.** Click on the connect button to connect the VPN
 
@@ -54,6 +54,14 @@ icon: fontawesome/brands/android
 </figure>
 
 **7.** Enjoy the internet!
+
+??? success ":material-dns: Test Connection"
+
+    To check if the proxy is properly configured and connected, you can test your connection below:
+
+    <figure markdown>
+    [Test Connection](/check/){ .md-button target=_blank}
+    </figure>
 
 
 ## :material-tools: Disconnection

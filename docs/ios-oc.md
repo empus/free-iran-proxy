@@ -33,6 +33,14 @@ icon: fontawesome/brands/apple
 
 **6.** Enjoy the internet!
 
+??? success ":material-dns: Test Connection"
+
+    To check if the proxy is properly configured and connected, you can test your connection below:
+
+    <figure markdown>
+    [Test Connection](/check/){ .md-button target=_blank}
+    </figure>
+
 ## :material-lan-disconnect: Disconnection
 
 To disconnect from the service, open ***OneClick*** and click on the green connection button:

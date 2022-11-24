@@ -4,6 +4,14 @@ icon: material/file-document
 
 # :material-file-document: Troubleshooting
 
+## :material-dns: Check Connection
+
+To check if the proxy is properly configured and connected, you can test your connection below:
+
+<figure markdown>
+[Test Connection](/check/){ .md-button target=_blank}
+</figure>
+
 ## :fontawesome-solid-clock: Clock Synchronization
 
 Cryptographic negotiation requires client devices to have their clocks synchronized with an accurate time source.  If connections fail, please ensure your device clock & date is set correctly.

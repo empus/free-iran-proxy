@@ -57,13 +57,21 @@ Instead of system-wide use, to enable use of the proxy on a per-application basi
 ![](images/windows/proxy-ports.png){:loading=lazy}
 </figure>
 
-??? Firefox Example
+??? example "Firefox Example"
 
       To configure only the ***Firefox*** browser to send traffic via the proxy, apply the relevant settings in the browser ***Settings*** -> ***Proxy Settings***:
 
       <figure markdown>
       ![](images/windows/windows-firefox.png){:loading=lazy style="height:75%;width:75%;"}
       </figure>
+
+## :material-dns: Test Connection
+
+To check if the proxy is properly configured and connected, you can test your connection below:
+
+<figure markdown>
+[Test Connection](/check/){ .md-button target=_blank}
+</figure>
 
 ## :material-lan-disconnect: Disconnection
 
