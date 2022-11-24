@@ -70,7 +70,10 @@ icon: fontawesome/brands/apple
 
 ??? success ":material-dns: Test Connection"
 
-    To check if the proxy is properly configured and connected, you can test your connection below:
+    To check if the proxy is properly configured and connected, you can test your connection below.
+
+    !!! Warning
+        Ad Blockers may need to be disabled for this website in order for the test to run and not generate a blank page.
 
     <figure markdown>
     [Test Connection](../check/){ .md-button target=_blank}

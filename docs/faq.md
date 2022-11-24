@@ -6,10 +6,13 @@ icon: material/file-document
 
 ## :material-dns: Check Connection
 
-To check if the proxy is properly configured and connected, you can test your connection below:
+To check if the proxy is properly configured and connected, you can test your connection below.
+
+!!! Warning
+    Ad Blockers may need to be disabled for this website in order for the test to run and not generate a blank page.
 
 <figure markdown>
-[Test Connection](/check/){ .md-button target=_blank}
+[Test Connection](../check/){ .md-button target=_blank}
 </figure>
 
 ## :fontawesome-solid-clock: Clock Synchronization

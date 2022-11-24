@@ -15,7 +15,8 @@ theme:
     - navigation.sections
     - content.tabs.link
     - toc.integrate
-  palette: 
+    - announce.dismiss
+  custom_dir: overrides
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
