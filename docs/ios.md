@@ -6,7 +6,7 @@ icon: fontawesome/brands/apple
 
 ## :material-download: Installation
 
-**1.** Install [NapsternetV](https://apps.apple.com/us/app/napsternetv/id1629465476) from the App Store
+**1.** Install [NapsternetV](https://apps.apple.com/us/app/napsternetv/id1629465476){target=_blank} from the App Store
 
 <figure markdown>
 ![](images/ios/napsternetv-app.png){:style="height:50%;width:50%" loading=lazy}

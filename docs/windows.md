@@ -5,9 +5,9 @@ icon: fontawesome/brands/windows
 # :fontawesome-brands-windows: Windows
 
 ## :material-download: Installation
-**1.** Download and extract [V2rayN for Windows](https://github.com/2dust/v2rayN/releases/download/5.38/v2rayN-Core.zip)
+**1.** Download and extract [V2rayN for Windows](https://github.com/2dust/v2rayN/releases/download/5.38/v2rayN-Core.zip){target=_blank}
 
-**2.** Run V2rayN.exe
+**2.** Run ***V2rayN.exe***
 
 ## :material-tools: Configuration
 **1.** Copy the below URI to clipboard for the respective proxy service you are configuring:

@@ -5,7 +5,7 @@ icon: fontawesome/brands/apple
 # :fontawesome-brands-apple: macOS
 
 ## :octicons-checklist-16: Prerequisite (Homebrew)
-**1.** If you do not already have [***Homebrew***](https://brew.sh) installed on your macOS machine, do so first via typing the below in ***Terminal***:
+**1.** If you do not already have [***Homebrew***](https://brew.sh){target=_blank installed on your macOS machine, do so first via typing the below in ***Terminal***:
 
 !!! Terminal
     Select icon on right hand side of text to copy to clipboard
@@ -14,7 +14,7 @@ icon: fontawesome/brands/apple
     ```
 
 ## :material-download: Installation
-**1.** Install [V2RayX for macOS](https://github.com/Cenmrev/V2RayX) by typing the below in ***Terminal***:
+**1.** Install [V2RayX for macOS](https://github.com/Cenmrev/V2RayX){target=_blank} by typing the below in ***Terminal***:
 
 !!! Terminal
     Select icon on right hand side of text to copy to clipboard

@@ -6,7 +6,7 @@ icon: fontawesome/brands/android
 
 ## :material-download: Installation
 
-1. Download [V2rayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang) from the Google Play store.
+1. Download [V2rayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang){target=_blank} from the Google Play store.
 
 ## :material-tools: Configuration
 **1.** Copy the below URI to clipboard for the respective proxy service you are configuring:

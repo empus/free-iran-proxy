@@ -6,7 +6,7 @@ icon: fontawesome/brands/apple
 
 ## :material-download: Installation
 
-**1.** Download and run [OneClick](https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197) from the App Store
+**1.** Download and run [OneClick](https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197){target=_blank} from the App Store
 
 ## :material-tools: Configuration
 **1.** Click ***Add Server***
