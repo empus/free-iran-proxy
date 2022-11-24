@@ -1,29 +1,42 @@
-# iOS -- iPhone & iPad
+---
+icon: fontawesome/brands/apple
+---
 
-## Installation
+# :fontawesome-brands-apple: iOS -- iPhone & iPad
 
-1. Download and run [OneClick](https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197) from the App Store
+## :material-download: Installation
 
-## Configuration
-1. Click ***Add Server***
-2. Click ***Scan QR Code***, using the below code:
+**1.** Download and run [OneClick](https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197) from the App Store
 
-    ![](images/qrcode.png)
+## :material-tools: Configuration
+**1.** Click ***Add Server***
 
-3. Click the connect button
-   
-    ![](images/ios/oneclick-con.png){:style="height:50%;width:50%"}
+**2.** Click ***Scan QR Code***, using the below code:
 
+</figure markdown>
+![](images/qrcode.png){:loading=lazy}
+</figure>
 
-4. Select ***Allow*** to allow the VPN Configuration installation
+**3.** Click the connect button
 
-    ![](images/ios/oneclick-allow.png){:style="height:50%;width:50%"}
+</figure markdown>
+![](images/ios/oneclick-con.png){:loading=lazy style="height:50%;width:50%;"}
+</figure>
 
-5. Enter your device PIN to confirm VPN configuration
-6. Enjoy the internet!
+**4.** Select ***Allow*** to allow the VPN Configuration installation
 
-## Disconnection
+</figure markdown>
+![](images/ios/oneclick-allow.png){:loading=lazy style="height:50%;width:50%;"}
+</figure>
+
+**5.** Enter your device PIN to confirm VPN configuration
+
+**6.** Enjoy the internet!
+
+## :material-lan-disconnect: Disconnection
 
 To disconnect from the service, open ***OneClick*** and click on the green connection button:
 
-![](images/ios/oneclick-dc.png){:style="height:50%;width:50%"}
+</figure markdown>
+![](images/ios/oneclick-dc.png){:loading=lazy style="height:50%;width:50%;"}
+</figure>

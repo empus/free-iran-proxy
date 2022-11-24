@@ -1,35 +1,65 @@
-# Android
+---
+icon: fontawesome/brands/android
+---
 
-## Installation
+# :fontawesome-brands-android: Android
+
+## :material-download: Installation
 
 1. Download [V2rayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang) from the Google Play store.
 
-## Configuration
-1. Copy the below URI to clipboard:
-   ```vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkZyZWUgSXJhbiIsDQogICJhZGQiOiAianNzYW0uZmluLXRlY2guY29tIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjExMzAzZGJlLTBmMDktNGE0Yy1hM2ZmLTdkMTlhMDkyMzhiZCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAianNzYW0uZmluLXRlY2guY29tIiwNCiAgInBhdGgiOiAiL2NvbnRyb2wiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAianNzYW0uZmluLXRlY2guY29tIiwNCiAgImFscG4iOiAiIg0KfQ==```
-2. Run the ***V2rayNG*** app
-3. On the ***Configuration*** screen, click the ***+*** icon to add a server
-4. Select ***Import config from clipboard***
+## :material-tools: Configuration
+**1.** Copy the below URI to clipboard for the respective proxy service you are configuring:
+   
+!!! Clipboard
+    Select icon on right hand side of text to copy to clipboard
+    === "Free Iran"
+        ```
+        vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkZyZWUgSXJhbiIsDQogICJhZGQiOiAianNzYW0uZmluLXRlY2guY29tIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjExMzAzZGJlLTBmMDktNGE0Yy1hM2ZmLTdkMTlhMDkyMzhiZCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAianNzYW0uZmluLXRlY2guY29tIiwNCiAgInBhdGgiOiAiL2NvbnRyb2wiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAianNzYW0uZmluLXRlY2guY29tIiwNCiAgImFscG4iOiAiIg0KfQ==
+        ```
 
-    ![](images/android/v2rayng-import.png){:style="height:50%;width:50%"}
+    === "Power Vmess"
+        ```
+        vmess://eyJhZGQiOiJiYWJvLjEzMzcuY3giLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJiYWJvLjEzMzcuY3giLCJpZCI6ImVjNjFkNzQxLWQ5NWQtNGM2Ni1iMzU2LTBlZDg5NzgzMTllOSIsIm5ldCI6IndzIiwicGF0aCI6Ii9jb250cm9sLyIsInBvcnQiOiI0NDMiLCJwcyI6IlBvd2VyLVZNRVNTIiwic2N5IjoiYXV0byIsInNuaSI6ImJhYm8uMTMzNy5jeCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+        ```
 
-5. Successful import confirmation should be displayed:
+**2.** Run the ***V2rayNG*** app
 
-    ![](images/android/v2rayng-imported.png){:style="height:50%;width:50%"}
+**3.** On the ***Configuration*** screen, click the ***+*** icon to add a server
 
-6. Click on the connect button to connect the VPN
+**4.** Select ***Import config from clipboard***
 
-    ![](images/android/v2rayng-con.png){:style="height:50%;width:50%"}
+<figure markdown>
+![](images/android/v2rayng-import.png){:loading=lazy style="height:50%;width:50%"}
+</figure>
 
-7. For the first time only, approve the first use connection request
+!!! Success
 
-    ![](images/android/v2rayng-req.png){:style="height:50%;width:50%"}
+    Successful import confirmation should be displayed
 
-8. Enjoy the internet!
+<figure markdown>
+![](images/android/v2rayng-imported.png){:loading=lazy style="height:50%;width:50%;"}
+</figure>
+
+**5.** Click on the connect button to connect the VPN
+
+<figure markdown>
+![](images/android/v2rayng-con.png){:loading=lazy style="height:50%;width:50%;"}
+</figure>
+
+**6.** For the first time only, approve the first use connection request
+
+<figure markdown>
+![](images/android/v2rayng-req.png){:loading=lazy style="height:50%;width:50%;"}
+</figure>
+
+**7.** Enjoy the internet!
 
 
-## Disconnection
+## :material-tools: Disconnection
 
 To disconnect from the service, open ***V2rayNG*** and from the main screen, click on the connect/disconnect icon to disconnect:
 
-![](images/android/v2rayng-dc.png){:style="height:50%;width:50%"}
+<figure markdown>
+![](images/android/v2rayng-dc.png){:loading=lazy style="height:50%;width:50%;"}
+</figure>
