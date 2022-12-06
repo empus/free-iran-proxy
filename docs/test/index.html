@@ -11,12 +11,12 @@
         /* get Free Iran IP */
         var response = await fetch('https://dns.google/resolve?name=jssam.fin-tech.com');
         var json = await response.json();
-        if (json.Status === 3) { var jssam; } else { var jssam = json.Answer[0].data; }
+        if (json.Status != 0) { var jssam; } else { var jssam = json.Answer[0].data; }
 
         /* get Power Vmess IP */
         var response = await fetch('https://dns.google/resolve?name=babo.1337.cx');
         var json = await response.json();
-        if (json.Status === 3) { var power; } else { var power = json.Answer[0].data; }
+        if (json.Status != 0) { var power; } else { var power = json.Answer[0].data; }
 
         /* get client IP */
         var response = await fetch('https://api.ipify.org?format=json');
