@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test Proxy Connection</title>
+</head>
+ 
+<body>
+    <div style='font-size:x-large;'>Loading...</div>
+    <script>
+    async function checkIP() {
+        /* get Free Iran IP */
+        var response = await fetch('https://dns.google/resolve?name=jssam.fin-tech.com');
+        var json = await response.json();
+        if (json.Status != 0) { var jssam; } else { var jssam = json.Answer[0].data; }
+
+        /* get Power Vmess IP */
+        var response = await fetch('https://dns.google/resolve?name=babo.1337.cx');
+        var json = await response.json();
+        if (json.Status != 0) { var power; } else { var power = json.Answer[0].data; }
+
+        /* get client IP */
+        var response = await fetch('https://api.ipify.org?format=json');
+        var data = await response.json();
+
+        /* check for proxy IP from client */
+        const clientip = data.ip;
+        if (clientip === jssam || clientip === power) {
+            document.write("<div style='color:green'><h1>Success</h1></div><h3>Proxy connected</h3>");
+        } else {
+            document.write("<div style='color:red'><h1>Failure</h1></div><h3>Proxy either not configured or not connected</h3>");
+        };
+
+    }
+    checkIP();
+    </script>
+</body>
+ 
+</html>
