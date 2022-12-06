@@ -5,7 +5,7 @@ icon: fontawesome/brands/apple
 # :fontawesome-brands-apple: macOS
 
 ## :octicons-checklist-16: Prerequisite (Homebrew)
-**1.** If you do not already have [***Homebrew***](https://brew.sh){target=_blank installed on your macOS machine, do so first via typing the below in ***Terminal***:
+**1.** If you do not already have [***Homebrew***](https://brew.sh){target=_blank} installed on your macOS machine, do so first via typing the below in ***Terminal***:
 
 !!! Terminal
     Select icon on right hand side of text to copy to clipboard
@@ -106,7 +106,7 @@ To check if the proxy is properly configured and connected, you can test your co
     Ad Blockers may need to be disabled for this website in order for the test to run and not generate a blank page.
 
 <figure markdown>
-[Test Connection](../check/){ .md-button target=_blank}
+[Test Connection](../test/){ .md-button target=_blank}
 </figure>
 
 ## :material-lan-disconnect: Disconnection

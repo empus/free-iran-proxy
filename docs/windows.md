@@ -73,7 +73,7 @@ To check if the proxy is properly configured and connected, you can test your co
       Ad Blockers may need to be disabled for this website in order for the test to run and not generate a blank page.
 
 <figure markdown>
-[Test Connection](../check/){ .md-button target=_blank}
+[Test Connection](../test/){ .md-button target=_blank}
 </figure>
 
 ## :material-lan-disconnect: Disconnection

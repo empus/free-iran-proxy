@@ -63,7 +63,7 @@ icon: fontawesome/brands/android
         Ad Blockers may need to be disabled for this website in order for the test to run and not generate a blank page.
 
     <figure markdown>
-    [Test Connection](../check/){ .md-button target=_blank}
+    [Test Connection](../test/){ .md-button target=_blank}
     </figure>
 
 
